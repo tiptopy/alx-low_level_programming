@@ -4,7 +4,7 @@
 /**
   *main - main method
   *void : retun nothing
-  *Return : 0
+  *Return : Returns a 0 if success
 */
 
 /* more headers goes there */
